@@ -1,6 +1,7 @@
-package cap.dao;
+package cap.dao.impl;
 
 import cap.bean.Admin;
+import cap.dao.AdminDAO;
 import cap.util.DBUtil;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;

@@ -10,7 +10,7 @@ public class DBUtil {
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/cap");
         dataSource.setUsername("root");
-        dataSource.setPassword("admin");
+        dataSource.setPassword("611321");
         return dataSource;
     }
 }
