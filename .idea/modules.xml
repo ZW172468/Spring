@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SSH/spring4x1/spring4x1.iml" filepath="$PROJECT_DIR$/SSH/spring4x1/spring4x1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH/spring6/spring6.iml" filepath="$PROJECT_DIR$/SSH/spring6/spring6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH/spring6x1/spring6x1.iml" filepath="$PROJECT_DIR$/SSH/spring6x1/spring6x1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH/spring7/spring7.iml" filepath="$PROJECT_DIR$/SSH/spring7/spring7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH/spring8x0/spring8x0.iml" filepath="$PROJECT_DIR$/SSH/spring8x0/spring8x0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH/spring8x1/spring8x1.iml" filepath="$PROJECT_DIR$/SSH/spring8x1/spring8x1.iml" />
     </modules>
   </component>
 </project>

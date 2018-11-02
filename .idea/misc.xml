@@ -2,11 +2,17 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/SSH/spring4x1" />
+    <file type="web" url="file://$PROJECT_DIR$/SSH/spring6" />
+    <file type="web" url="file://$PROJECT_DIR$/SSH/spring6x1" />
+    <file type="web" url="file://$PROJECT_DIR$/SSH/spring7" />
+    <file type="web" url="file://$PROJECT_DIR$/SSH/spring8x0" />
+    <file type="web" url="file://$PROJECT_DIR$/SSH/spring8x1" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SSH/spring4x1/pom.xml" />
+        <option value="$PROJECT_DIR$/SSH/spring6x1/pom.xml" />
       </list>
     </option>
   </component>
